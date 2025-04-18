@@ -14,10 +14,8 @@ Informa se o lucro foi acima ou abaixo do esperado
 🧠 Lógica:
 A porcentagem de lucro é calculada com a fórmula:
 
-matlab
-Copiar
-Editar
 lucro (%) = (faturamento - gastos) / faturamento * 100
+
 🛠️ Requisitos:
 Python 3
 
